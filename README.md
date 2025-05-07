@@ -28,6 +28,8 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>Deployment and Configuration Steps</h2>
 
+Step 1
+
 ![image](https://github.com/user-attachments/assets/2dececf0-7254-45ba-808e-e877e82cb98b)
 
 <p>
@@ -36,6 +38,8 @@ This is a container that will hold all resources as a group in Microsoft Azure.
   2. Name resource group, choose region and click review and create/create
 </p>
 <br />
+
+Step 2
 
 ![image](https://github.com/user-attachments/assets/549dcf8a-1a43-4315-8630-1e53719bb542)
 
@@ -46,6 +50,8 @@ The Virtual Network acts as a network in a data center in which you can isolate,
   3. Click review and create/create
 </p>
 <br />
+
+Step 3
 
 ![image](https://github.com/user-attachments/assets/5ad050a7-16c7-4c9e-a80b-2eafa15054d3)
 
