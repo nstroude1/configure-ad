@@ -33,7 +33,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <p>
 This is a container that will hold all resources as a group in Microsoft Azure.
   1. From the Azure homepage hover over the resource group icon and select create.
-  2. name resource group, choose region and click review and create/create
+  2. Name resource group, choose region and click review and create/create
 </p>
 <br />
 
