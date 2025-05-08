@@ -43,7 +43,7 @@ Step 2
 
 <p>
 The Virtual Network acts as a network in a data center in which you can isolate, scale or change the availability at the touch of a button.
-  1. Again from the Azure homepage hover over the virtual network icon and select create.
+  1. Again, from the Azure homepage hover over the virtual network icon and select create.
   2. Choose the resource group to put the network in, name the virtual network
   3. Click review and create/create
 </p>
