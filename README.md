@@ -31,8 +31,8 @@ This tutorial outlines the implementation of on-premises Active Directory within
 Step 1
 
 <p>
-This is a container that will hold all resources as a group in Microsoft Azure.
-  A. From the Azure homepage hover over the resource group icon and select create.
+This is a container that will hold all resources as a group in Microsoft Azure:
+  A. From the Azure homepage hover over the resource group icon and select create
   B. Name resource group, choose region and click review and create/create
 </p>
 <br />
@@ -42,8 +42,8 @@ This is a container that will hold all resources as a group in Microsoft Azure.
 Step 2
 
 <p>
-The Virtual Network acts as a network in a data center in which you can isolate, scale or change the availability at the touch of a button.
-  A. Again, from the Azure homepage hover over the virtual network icon and select create.
+The Virtual Network acts as a network in a data center in which you can isolate, scale or change the availability at the touch of a button:
+  A. Again, from the Azure homepage hover over the virtual network icon and select create
   B. Choose the resource group to put the network in, name the virtual network
   C. Click review and create/create
 </p>
@@ -54,7 +54,7 @@ The Virtual Network acts as a network in a data center in which you can isolate,
 Step 3
 
 <p>
-I created a Virtual Machine which will act as a server to which I will install Azure to act as a Domain Controller.
+I created a Virtual Machine which will act as a server to which I will install Azure to act as a Domain Controller:
   A. 
 </p>
 <br />
